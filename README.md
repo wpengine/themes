@@ -12,7 +12,7 @@ Download the latest stable release: [frost-1.0.8.zip](https://downloads.wordpres
 
 ## Requirements
 
-- WordPress 6.4+
+- WordPress 6.5+
 - PHP 7.0+
 - License: [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html)
 
@@ -21,7 +21,7 @@ Download the latest stable release: [frost-1.0.8.zip](https://downloads.wordpres
 You can download the latest stable release of Frost using the link above. Alternatively, install the entire repository for development purposes:
 
 1. Set up a local WordPress development environment, we recommend using [Local](https://localwp.com/).
-2. Ensure you are using WordPress 6.4+.
+2. Ensure you are using WordPress 6.5+.
 3. Clone / download this repository into the `/wp-content/themes/` directory of your new WordPress instance.
 4. In the WordPress admin, use the Appearance > Themes screen to activate Frost.
 

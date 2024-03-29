@@ -1,7 +1,7 @@
 === Frost ===
 Contributors: wpengine, bgardner
-Requires at least: 6.4
-Tested up to: 6.4
+Requires at least: 6.5
+Tested up to: 6.5
 Requires PHP: 7.0
 Stable tag: 1.0.8
 License: GNU General Public License v3
