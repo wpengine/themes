@@ -147,6 +147,19 @@ textarea {
 	padding: 2px 10px;
 }
 
+/* Utility
+---------------------------------------- */
+
+/* -- Box Shadow -- */
+
+.is-style-shadow-light {
+	box-shadow: var(--wp--preset--shadow--light);
+}
+
+.is-style-shadow-solid {
+	box-shadow: var(--wp--preset--shadow--solid);
+}
+
 /* Media Queries
 ---------------------------------------- */
 
