@@ -8,7 +8,7 @@ The ultimate WordPress theme for website builders.
 
 With its clean, minimal design and powerful feature set, Frost enables agencies to build stylish and sophisticated WordPress websites. Frost is a masterpiece of design and functionality. It features a range of valuable patterns, including hero and portfolio sections, prominent call-to-action buttons, and customer testimonials. Whether you’re building a website for your business, personal brand, or creative project, Frost is perfect for anyone looking to launch quickly and efficiently. See the Frost theme in action at [frostwp.com](https://frostwp.com/).
 
-Download the latest stable release: [frost-1.0.8.zip](https://downloads.wordpress.org/theme/frost.1.0.8.zip)
+Download the latest stable release: [frost-1.0.9.zip](https://downloads.wordpress.org/theme/frost.1.0.9.zip)
 
 ## Requirements
 
