@@ -1,6 +1,6 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
-	"version": 2,
+	"version": 3,
 	"customTemplates": [
 		{
 			"name": "blank",
@@ -146,6 +146,7 @@
 			]
 		},
 		"spacing": {
+			"defaultSpacingSizes": false,
 			"spacingSizes": [
 				{
 					"name": "xSmall",
@@ -183,6 +184,7 @@
 			]
 		},
 		"typography": {
+			"defaultFontSizes": false,
 			"dropCap": false,
 			"fluid": true,
 			"fontFamilies": [
