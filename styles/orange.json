@@ -1,5 +1,5 @@
 {
-	"version": 2,
+	"version": 3,
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"title": "Orange",
 	"description":  "Orange-based palette with two shades",
