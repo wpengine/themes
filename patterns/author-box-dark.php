@@ -10,8 +10,8 @@
 <!-- wp:post-author-name {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"spacing":{"margin":{"top":"10px"}}},"fontSize":"large"} /-->
 <!-- wp:post-author-biography {"textAlign":"center","style":{"spacing":{"margin":{"top":"0px"}},"typography":{"lineHeight":"1.5"}}} /-->
 <!-- wp:social-links {"iconColor":"contrast","iconColorValue":"#000000","iconBackgroundColor":"base","iconBackgroundColorValue":"#ffffff","align":"center"} -->
-<ul class="wp-block-social-links aligncenter has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"#","service":"twitter"} /-->
-<!-- wp:social-link {"url":"#","service":"instagram"} /-->
-<!-- wp:social-link {"url":"#","service":"linkedin"} /--></ul>
+<ul class="wp-block-social-links aligncenter has-icon-color has-icon-background-color"><!-- wp:social-link {"url":"#","service":"x"} /-->
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
 <!-- /wp:social-links --></div>
 <!-- /wp:group -->
