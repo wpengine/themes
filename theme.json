@@ -189,9 +189,6 @@
 			"fluid": true,
 			"fontFamilies": [
 				{
-					"fontFamily": "Outfit, sans-serif",
-					"name": "Outfit",
-					"slug": "primary",
 					"fontFace": [
 						{
 							"fontDisplay": "block",
@@ -201,7 +198,10 @@
 							"fontWeight": "100 900",
 							"src": [ "file:./assets/fonts/Outfit-Variable.woff2" ]
 						}
-					]
+					],
+					"fontFamily": "Outfit, sans-serif",
+					"name": "Outfit",
+					"slug": "primary"
 				},
 				{
 					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
