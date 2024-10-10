@@ -8,6 +8,8 @@
  * @link    https://frostwp.com/
  */
 
+require_once 'updates.php';
+
 if ( ! function_exists( 'frost_setup' ) ) {
 
 	/**
